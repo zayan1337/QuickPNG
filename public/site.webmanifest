@@ -1,0 +1,16 @@
+{
+  "name": "QuickPNG",
+  "short_name": "QuickPNG",
+  "description": "AI background remover — runs in your browser",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1e",
+  "theme_color": "#1a1a1e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
